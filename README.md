@@ -14,7 +14,7 @@ After all dependencies are installed, you need to create a `.env` file with the 
     MONGODB_NAME = <database name - default is nthings>
     MONGODB_USER = <database user - default is unauthenticated access>
     MONGODB_PASS = <database password - default is unauthenticated access>
-    SERVER_DOMAIN = <server host - default is localhost
+    SERVER_DOMAIN = <server host - default is localhost>
     SERVER_PORT = <server port - default is 10000>
     SESSION_SECRET = <somesupersecretsessionsecret>
     COOKIE_EXPIRES = <in milliseconds. suggested: 2400000>
