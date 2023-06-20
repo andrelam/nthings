@@ -1,0 +1,8 @@
+{
+  "auth": {
+    "usernameAlreadyExists": "Username already exists. Please choose a different username",
+    "confirmEmailSent"     : "An email was sent to {{ email }}. Please click on the link on it to validate your email address",
+    "invalidUserOrPassword": "Invalid username or incorrect password",
+    "emailNotConfirmed"    : "Email {{ email }} was not yet validated"
+  }
+}

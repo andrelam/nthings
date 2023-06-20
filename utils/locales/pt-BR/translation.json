@@ -1,0 +1,8 @@
+{
+  "auth": {
+    "usernameAlreadyExists": "Este usuário já existe. Favor selecionar um usuário diferente",
+    "confirmEmailSent"     : "Um email foi enviado para o endereço {{ email }}. Por favor, clique no link enviado para validar o seu endereço",
+    "invalidUserOrPassword": "Usuário ou senha inválidos",
+    "emailNotConfirmed"    : "O email {{ email }} ainda não foi validado"
+  }
+}
